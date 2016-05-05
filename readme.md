@@ -1,5 +1,8 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
+[![Drone Build Status](https://drone.io/github.com/travisfinch/spring-petclinic/status.png)](https://drone.io/github.com/travisfinch/spring-petclinic/latest)
+
+
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
